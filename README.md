@@ -5,12 +5,12 @@
 <div size="20px"> Hi! My name is Marwa Jaida. Thank you for taking the time to view my GitHub Profile 😊
 </div>
 <br />
+<img   width="55%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UzaTBscGM4b25vMDlkYW91cThkcHdwODUwZmlzeTV6ZGg3Z3NibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" />
 As a student pursuing a Bachelor's degree in Information Systems and Digital Transformation at the Faculty of Sciences and Techniques in Settat, Morocco, I am actively engaged in learning how to code. I find great joy in crafting and designing webpages using HTML, CSS, JavaScript, and PHP (with potential exploration of Laravel in the future). What I find most rewarding is the ability to code something that can be easily accessible to anyone on the web. Additionally, I thrive on the challenge presented by programming in C and Java. Successfully overcoming complex problems in these languages is an aspect of coding that I truly enjoy.
-
-
 <br />
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<h2>About Me <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UzaTBscGM4b25vMDlkYW91cThkcHdwODUwZmlzeTV6ZGg3Z3NibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" /></h2>
+
 - 🔭 I’m currently working on creating webpages and learning how to program.<br />
 - 🌱 I’m currently learning HTML, CSS, Java, PHP, and JavaScript.<br />
 - 🤔 I like to code, read, eat, sleep, and cook in my free time.<br />
